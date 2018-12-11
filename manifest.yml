@@ -7,4 +7,5 @@ applications:
   services:
   - service-registry
   - config-server1
+  - rabbitmq
 
